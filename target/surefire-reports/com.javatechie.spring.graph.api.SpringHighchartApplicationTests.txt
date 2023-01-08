@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.javatechie.spring.graph.api.SpringHighchartApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.468 sec - in com.javatechie.spring.graph.api.SpringHighchartApplicationTests
